@@ -10,6 +10,5 @@
     - zlib1g-dev
     - unzip
     - python
-    - numpy
     - python-devel
     - python-pip
