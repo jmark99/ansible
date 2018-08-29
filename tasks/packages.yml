@@ -10,5 +10,3 @@
     - zlib1g-dev
     - unzip
     - python
-    - python-devel
-    - python-pip
