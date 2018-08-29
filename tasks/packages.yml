@@ -1,6 +1,6 @@
 - name: Install packages 
   apt: name={{item}}
-  with items:
+  with_items:
     - maven
     - xubuntu-desktop
     - openjdk-8-jdk
