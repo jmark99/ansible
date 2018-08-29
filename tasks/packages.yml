@@ -10,3 +10,6 @@
     - zlib1g-dev
     - unzip
     - python
+    - tigervnc-standalone-server
+    - tigervnc-xorg-extension
+    - tigervnc-viewer
